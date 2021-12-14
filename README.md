@@ -2,7 +2,7 @@
 ## Name: Wendy Bazan Galindo.
 ## Email: Wendyb8188@hstat.org
 ## School: High School of Telecummuncation Arts and Technology 
-## Bio: I am the oldest. My hobbie are drawing, listening to music, and going shoppping. 
+## Bio: I am the oldest. I like to draw, listen to music, and go shoppping. 
 ## Schedule: 
 1) Algebra 2
 2) Chemistry 1
@@ -12,3 +12,4 @@
 6) SEP 3
 7) BHP 1
 8) ELA 3
+
