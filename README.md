@@ -1,5 +1,5 @@
 # about-me
-## Name: Wendy Bazan Galindo.
+## Name: Wendy Bazan Galindo
 ## Email: Wendyb8188@hstat.org
 ## School: High School of Telecummuncation Arts and Technology 
 ## Bio: I am the oldest. I like to draw, listen to music, and go shoppping. 
