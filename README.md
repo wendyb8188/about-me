@@ -1,6 +1,4 @@
-# **About Me**
-
---- 
+# **About Me**--- 
 
 ## Name: Wendy Bazan Galindo
 ## Email: _Wendyb8188@hstat.org_
@@ -22,5 +20,7 @@
 6. SEP 3
 7. BHP 1
 8. ELA 3
+
+![baby](https://media.giphy.com/media/3ohzdITteMeRoLX5eM/giphy-downsized-large
 
 
