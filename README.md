@@ -21,7 +21,7 @@
 7. BHP 1
 8. ELA 3
 
-<iframe src="https://giphy.com/embed/3ohzdITteMeRoLX5eM" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/elcinemaegypt-the-boss-baby-3ohzdITteMeRoLX5eM">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3ohzdITteMeRoLX5eM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/elcinemaegypt-the-boss-baby-3ohzdITteMeRoLX5eM">via GIPHY</a></p>
 
 
 
